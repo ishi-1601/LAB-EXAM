@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[15]:
-
+##Write a Python program to add radio buttons in the widget.
 
 from tkinter import *
 window = Tk()
